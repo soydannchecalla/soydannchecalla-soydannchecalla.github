@@ -193,6 +193,11 @@ footer h2{
     font-size: 60px;
     padding: 0 50px 50px;
 }
+
+.fa-brands:hover{
+    color:  #b28405;
+}
+/*
 .fa-facebook:hover{
     color: #0165E1;
 }
@@ -211,7 +216,7 @@ footer h2{
 
 .fa-whatsapp:hover{
     color: #25d366;
-}
+}*/
 
 
 @media (max-width: 768px) {
@@ -346,7 +351,7 @@ footer h2{
         padding: 15px;
     }
     .fa-brands:hover{
-        color:  #795300;
+        color:  #b28405;
     }
     
 /*.fa-facebook:hover{
